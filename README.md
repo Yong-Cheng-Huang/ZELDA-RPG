@@ -1,15 +1,5 @@
 # 🎮 Zelda RPG – 遊戲程式設計期末專題
 
-**組員：**  
-- 111113224 黃永丞  
-- 111113212 蔡尚廷  
-
-**課程：** 遊戲程式設計  
-**專案影片：** [https://youtu.be/R2K8RRDgjYU](https://youtu.be/R2K8RRDgjYU)  
-**參考來源：** [YouTube 教學影片](https://youtu.be/QU1pPzEGrqw?si=BN1lHunKZ6sagiGU)
-
----
-
 ## 🕹️ 遊戲介紹
 
 《Zelda RPG》是一款由我們改良設計的 2D 動作冒險 RPG 遊戲。玩家將扮演一位勇者，在廣闊的地圖中探索、擊敗敵人、獲取資源並強化自身能力。
@@ -30,6 +20,13 @@
    - 擊殺敵人可獲得金幣，用於升級血量、能量與武器攻擊力。
 
 4. **完成關卡目標即可通關**
+
+---
+
+## 展示
+
+<img width="500" alt="截圖 2025-07-31 19 52 12" src="https://github.com/user-attachments/assets/a675bd2a-cb88-4960-b48d-057e0a2f6455" />
+<img width="500" alt="截圖 2025-07-31 19 52 31" src="https://github.com/user-attachments/assets/f8bd32a1-6df1-48ef-a86b-1df809079287" />
 
 ---
 
@@ -62,6 +59,9 @@
 |----------|--------------------------------------|
 | 黃永丞   | 程式設計、Canva 製作、文件撰寫     |
 | 蔡尚廷   | 程式設計、Canva 製作、影片錄製       |
+
+**專案影片：** [https://youtu.be/R2K8RRDgjYU](https://youtu.be/R2K8RRDgjYU)  
+**參考來源：** [YouTube 教學影片](https://youtu.be/QU1pPzEGrqw?si=BN1lHunKZ6sagiGU)
 
 ---
 
